@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "bsp_include.h": "c",
+        "stm32g0xx_ll_gpio.h": "c",
+        "dataconfigure.h": "c",
+        "platform.h": "c",
+        "curtaininterface.h": "c",
+        "baselibinclude.h": "c",
+        "enoceanlibinclude.h": "c",
+        "eep_d201xx.h": "c",
+        "cstddef": "c",
+        "limits": "c",
+        "xutility": "c",
+        "common.h": "c",
+        "bsp_usart.h": "c",
+        "button.h": "c",
+        "bsp_flash.h": "c",
+        "led.h": "c"
+    },
+    "breadcrumbs.showEnums": true
+}
